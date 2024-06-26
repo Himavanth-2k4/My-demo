@@ -1,5 +1,7 @@
 # My-demo
-<head> My info</head>
+<head>
+ <h2>My info</h2>
+ </head>
 This is my First repository
 <br>
 author- Kshatriya Himavanth Singh
